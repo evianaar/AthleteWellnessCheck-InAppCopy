@@ -1,0 +1,11 @@
+{
+  "title": "WellMate",
+  "description": "A friendly athlete wellness tracker for daily readiness check-ins, logging sleep, fatigue, soreness, stress, and mood to help guide training decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
